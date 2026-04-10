@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Comparador ISS}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Ejercicio 5\_3}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}main module}{3}{subsection.1.1.1}%
+\contentsline {chapter}{Índice de Módulos Python}{5}{section*.10}%

@@ -1,0 +1,9 @@
+\indexentry{module@\spxentry{module}!main@\spxentry{main}|hyperpage}{3}
+\indexentry{main@\spxentry{main}!module@\spxentry{module}|hyperpage}{3}
+\indexentry{App (clase en main)@\spxentry{App}\spxextra{clase en main}|hyperpage}{3}
+\indexentry{crear\_panel() (método de main.App)@\spxentry{crear\_panel()}\spxextra{método de main.App}|hyperpage}{3}
+\indexentry{dibujar\_estrellas() (método de main.App)@\spxentry{dibujar\_estrellas()}\spxextra{método de main.App}|hyperpage}{3}
+\indexentry{mostrar\_help() (método de main.App)@\spxentry{mostrar\_help()}\spxextra{método de main.App}|hyperpage}{3}
+\indexentry{obtener\_datos\_no\_opt() (en el módulo main)@\spxentry{obtener\_datos\_no\_opt()}\spxextra{en el módulo main}|hyperpage}{3}
+\indexentry{obtener\_datos\_opt() (en el módulo main)@\spxentry{obtener\_datos\_opt()}\spxextra{en el módulo main}|hyperpage}{4}
+\indexentry{perfilar() (en el módulo main)@\spxentry{perfilar()}\spxextra{en el módulo main}|hyperpage}{4}
